@@ -20,3 +20,10 @@
 
 ```bash
 pip install opencc-python-reimplemented EbookLib
+
+## 使用方法
+
+1. **转换单个文件**
+
+   ```bash
+   python convert.py 法医.epub
